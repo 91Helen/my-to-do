@@ -1,11 +1,10 @@
-<div id="header" align="center">
-  <img src="https://gifgifs.com/animations/words/welcome-signs/hand_writing.gif" width="200"/>
-</div>
-
-# ToDo-list-App
+# ToDo-list-App :writing_hand:
 
 ## Description
-Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
+Welcome to my project! This is a Todo list App made in React. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. I hope you enjoy and I look forward to your contributions!
+<div>
+  <img src="./src/myGif.gif"/>
+</div>
 
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
